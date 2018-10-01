@@ -1,0 +1,10 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/bin/Debug/netcoreapp2.0/Collections.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/bin/Debug/netcoreapp2.0/Collections.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/bin/Debug/netcoreapp2.0/Collections.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/bin/Debug/netcoreapp2.0/Collections.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/bin/Debug/netcoreapp2.0/Collections.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/obj/Debug/netcoreapp2.0/Collections.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/obj/Debug/netcoreapp2.0/Collections.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/obj/Debug/netcoreapp2.0/Collections.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/obj/Debug/netcoreapp2.0/Collections.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Collections/obj/Debug/netcoreapp2.0/Collections.pdb
